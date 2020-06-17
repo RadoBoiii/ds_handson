@@ -7,7 +7,7 @@
 # Mariana Curi
 <sub>*Solution Architect* at Optiva Inc.</sub>
 
-**Background in:** Produtos Digitais, Technical Solution Design, System Integration, Development, Project Management.
+**Background in:** Produtos Digitais, Technical Solution Design, System Integration, Data Analysis, Project Management.
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/mmcuri)
