@@ -17,6 +17,7 @@
 
 ## Projects:
 Check my published projects and tutorials:
+
 ***Airbnb Data Analysis - Buenos Aires:*** https://bit.ly/37PIRlk
 
 ---
