@@ -11,9 +11,9 @@
 
 **Interests:** Data Science and Digital Products
 
-**Links:**
+**Find me on:**
 * [LinkedIn](https://www.linkedin.com/in/mmcuri)
-* [Medium](https://www.medium.com)
+* [Medium](https://medium.com/@marimcuri)
 
 ## Projects:
 Check my published projects and tutorials:
