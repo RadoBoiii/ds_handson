@@ -17,7 +17,7 @@
 ## Projetos:
 Veja os tutoriais publicados:
 
-* **Como usar o Histograma para Data Science:** https://bit.ly/2L2cMwy
+* ** Airbnb Data Analysis - Buenos Aires:** https://bit.ly/37PIRlk
 
 ---
 
