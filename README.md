@@ -19,6 +19,7 @@
 Check my published projects and tutorials:
 
 ***Airbnb Data Analysis - Buenos Aires:*** https://bit.ly/37PIRlk
+***Rio de Janeiro Violence:*** https://bit.ly/2NDWjzm
 
 ---
 
