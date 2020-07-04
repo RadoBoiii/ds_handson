@@ -6,12 +6,11 @@
 
 # Mariana Curi
 <sub>*Solution Architect* at Optiva Inc.</sub>
+<sub>In god we trust, all others **must bring data**.</sub>
 
 **Background in:** Technical Solution Design, System Integration, Project Management
 
 **Interests:** Data Science and Digital Products
-
-<sub>In god we trust, all others **must bring data**.</sub>
 
 **Find me on:**
 * [LinkedIn](https://www.linkedin.com/in/mmcuri)
