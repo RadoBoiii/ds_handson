@@ -11,6 +11,8 @@
 
 **Interests:** Data Science and Digital Products
 
+In god we trust, all others **must bring data**.
+
 **Find me on:**
 * [LinkedIn](https://www.linkedin.com/in/mmcuri)
 * [Medium](https://medium.com/@marimcuri)
