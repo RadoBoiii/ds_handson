@@ -5,7 +5,7 @@
 </p>
 
 # Mariana Curi
-<sub>*Solution Architect* at Optiva Inc.</sub>
+<sub>*Solution Architect* at Optiva Inc.</sub><br>
 <sub>In god we trust, all others **must bring data**.</sub>
 
 **Background in:** Technical Solution Design, System Integration, Project Management
