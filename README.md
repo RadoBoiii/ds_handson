@@ -11,7 +11,7 @@
 
 **Interests:** Data Science and Digital Products
 
-In god we trust, all others **must bring data**.
+<sub>In god we trust, all others **must bring data**.</sub>
 
 **Find me on:**
 * [LinkedIn](https://www.linkedin.com/in/mmcuri)
